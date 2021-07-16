@@ -1,0 +1,9 @@
+
+flask 
+numpy
+tensorflow
+jinja2
+python
+gunicorn
+pandas
+bootstrap
